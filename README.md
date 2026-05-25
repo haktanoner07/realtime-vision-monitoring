@@ -1,5 +1,10 @@
 # Real-Time Vision Monitoring System
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-green)
+![RTSP](https://img.shields.io/badge/RTSP-Streaming-orange)
+![ComputerVision](https://img.shields.io/badge/AI-ComputerVision-purple)
+
 Computer vision based monitoring and alert system developed using Python and OpenCV.
 
 ## 🚀 Technologies
